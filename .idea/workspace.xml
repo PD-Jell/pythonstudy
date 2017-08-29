@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9fb8f6-9c0a-48f7-a672-8e7754f2c70f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chap02. Python basic : Struct/02-3. List.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonPractice.iml" afterPath="$PROJECT_DIR$/.idea/PythonPractice.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chap01. What is Python?/01-2. Specification of Python.py" afterPath="$PROJECT_DIR$/Chap01. What is Python/01-2. Specification of Python.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chap02. Python basic : Struct/02-1. Numeric.py" afterPath="$PROJECT_DIR$/Chap02. Python basic - Struct/02-1. Numeric.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chap02. Python basic : Struct/02-2. String.py" afterPath="$PROJECT_DIR$/Chap02. Python basic - Struct/02-2. String.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chap02. Python basic : Struct/02-3. List.py" afterPath="$PROJECT_DIR$/Chap02. Python basic - Struct/02-3. List.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +19,14 @@
     <SUITE FILE_PATH="coverage/pythonstudy$02_2__String.coverage" NAME="02-2. String Coverage Results" MODIFIED="1503553078808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic : Struct" />
     <SUITE FILE_PATH="coverage/PythonPractice$02_1__Numeric.coverage" NAME="02-1. Numeric Coverage Results" MODIFIED="1503215065384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic : Struct" />
     <SUITE FILE_PATH="coverage/PythonPractice$01_2__Specification_of_Python.coverage" NAME="01-2. Specification of Python Coverage Results" MODIFIED="1503214604070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap01. What is Python?" />
+    <SUITE FILE_PATH="coverage/pythonstudy$01_2__Specification_of_Python.coverage" NAME="01-2. Specification of Python Coverage Results" MODIFIED="1503898565168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap01. What is Python" />
     <SUITE FILE_PATH="coverage/PythonPractice$02_2__String.coverage" NAME="02-2. String Coverage Results" MODIFIED="1503240616502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic : Struct" />
-    <SUITE FILE_PATH="coverage/pythonstudy$02_3__List.coverage" NAME="02-3. List Coverage Results" MODIFIED="1503576214532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic : Struct" />
+    <SUITE FILE_PATH="coverage/pythonstudy$02_3__List.coverage" NAME="02-3. List Coverage Results" MODIFIED="1503971488907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic - Struct" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="01-2. Specification of Python.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chap01. What is Python?/01-2. Specification of Python.py">
+        <entry file="file://$PROJECT_DIR$/Chap01. What is Python/01-2. Specification of Python.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
@@ -33,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="02-1. Numeric.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-1. Numeric.py">
+        <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-1. Numeric.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
               <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
@@ -43,9 +46,9 @@
         </entry>
       </file>
       <file leaf-file-name="02-2. String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-2. String.py">
+        <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-2. String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
+            <state relative-caret-position="1785">
               <caret line="119" column="60" lean-forward="true" selection-start-line="119" selection-start-column="60" selection-end-line="119" selection-end-column="60" />
               <folding />
             </state>
@@ -53,10 +56,10 @@
         </entry>
       </file>
       <file leaf-file-name="02-3. List.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-3. List.py">
+        <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-3. List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="823">
-              <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+            <state relative-caret-position="613">
+              <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,6 +84,7 @@
         <option value="$PROJECT_DIR$/Chap02. Python basic : Struct/02-1. Numeric.py" />
         <option value="$PROJECT_DIR$/Chap02. Python basic : Struct/02-2. String.py" />
         <option value="$PROJECT_DIR$/Chap02. Python basic : Struct/02-3. List.py" />
+        <option value="$PROJECT_DIR$/Chap02. Python basic - Struct/02-3. List.py" />
       </list>
     </option>
   </component>
@@ -114,7 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,13 +129,13 @@
             <path>
               <item name="pythonstudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap02. Python basic : Struct" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap02. Python basic - Struct" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,13 +163,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap01. What is Python?" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap01. What is Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap01. What is Python?/01-2. Specification of Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap01. What is Python/01-2. Specification of Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,13 +181,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap02. Python basic : Struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap02. Python basic - Struct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap02. Python basic : Struct/02-1. Numeric.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap02. Python basic - Struct/02-1. Numeric.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,13 +199,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap02. Python basic : Struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap02. Python basic - Struct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap02. Python basic : Struct/02-2. String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap02. Python basic - Struct/02-2. String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,13 +217,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap02. Python basic : Struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap02. Python basic - Struct" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonPractice" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap02. Python basic : Struct/02-3. List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap02. Python basic - Struct/02-3. List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,9 +237,9 @@
     <recent_temporary>
       <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Python.02-3. List" />
-        <item index="1" class="java.lang.String" itemvalue="Python.02-2. String" />
-        <item index="2" class="java.lang.String" itemvalue="Python.02-1. Numeric" />
-        <item index="3" class="java.lang.String" itemvalue="Python.01-2. Specification of Python" />
+        <item index="1" class="java.lang.String" itemvalue="Python.01-2. Specification of Python" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02-2. String" />
+        <item index="3" class="java.lang.String" itemvalue="Python.02-1. Numeric" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +266,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -288,39 +292,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chap01. What is Python?/01-2. Specification of Python.py">
+    <entry file="file://$PROJECT_DIR$/Chap01. What is Python/01-2. Specification of Python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-1. Numeric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-2. String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="143" column="30" lean-forward="false" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap01. What is Python?/01-2. Specification of Python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-1. Numeric.py">
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-1. Numeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
@@ -328,18 +308,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-2. String.py">
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-2. String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
+        <state relative-caret-position="1785">
           <caret line="119" column="60" lean-forward="true" selection-start-line="119" selection-start-column="60" selection-end-line="119" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap02. Python basic : Struct/02-3. List.py">
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-3. List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
+        <state relative-caret-position="1125">
           <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap01. What is Python/01-2. Specification of Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-1. Numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-2. String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2145">
+          <caret line="143" column="30" lean-forward="false" selection-start-line="143" selection-start-column="30" selection-end-line="143" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap01. What is Python/01-2. Specification of Python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-1. Numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-2. String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="119" column="60" lean-forward="true" selection-start-line="119" selection-start-column="60" selection-end-line="119" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-3. List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
           <folding />
         </state>
       </provider>
