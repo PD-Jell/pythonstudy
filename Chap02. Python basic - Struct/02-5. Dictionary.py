@@ -30,4 +30,10 @@ print(grade['pey']) # 10
 print(grade['julliet']) # 99
 
 a = {1: 'a', 1: 'b'}
-print(a) # 'b'
+print(a) # 'b' or 'a', 어떤 것이 삭제 될 지는 예측할 수 없다. 또한, Key에 리스트를 쓸 수는 없다.
+
+# 딕셔너리 관련 함수들
+# Key 리스트 만들기 (keys)
+a = {'name': 'pey', 'phone': '0109993323', 'birth': '1118'}
+print(a.keys()) # dict_keys(['name', 'phone', 'birth'])
+

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9fb8f6-9c0a-48f7-a672-8e7754f2c70f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chap02. Python basic - Struct/02-5. Dictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chap02. Python basic - Struct/02-5. Dictionary.py" afterPath="$PROJECT_DIR$/Chap02. Python basic - Struct/02-5. Dictionary.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pythonstudy$02_5__Dictionary.coverage" NAME="02-5. Dictionary Coverage Results" MODIFIED="1503990563587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic - Struct" />
+    <SUITE FILE_PATH="coverage/pythonstudy$02_5__Dictionary.coverage" NAME="02-5. Dictionary Coverage Results" MODIFIED="1504060364558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic - Struct" />
     <SUITE FILE_PATH="coverage/pythonstudy$02_2__String.coverage" NAME="02-2. String Coverage Results" MODIFIED="1503553078808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic : Struct" />
     <SUITE FILE_PATH="coverage/PythonPractice$02_1__Numeric.coverage" NAME="02-1. Numeric Coverage Results" MODIFIED="1503215065384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap02. Python basic : Struct" />
     <SUITE FILE_PATH="coverage/PythonPractice$01_2__Specification_of_Python.coverage" NAME="01-2. Specification of Python Coverage Results" MODIFIED="1503214604070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chap01. What is Python?" />
@@ -67,8 +66,8 @@
       <file leaf-file-name="02-5. Dictionary.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-5. Dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="585">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -431,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chap02. Python basic - Struct/02-5. Dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="585">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
