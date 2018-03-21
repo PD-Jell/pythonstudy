@@ -29,3 +29,20 @@ a, b = b, a # 두 변수를 간단히 바꿀수도 있다.
 # 객체 삭제 (del)
 del(a)
 del(b)
+
+# 리스트를 변수에 넣고 복사할 때
+a = [1, 2, 3]
+b = a
+a[1] = 4
+print(a)
+print(b)
+
+b = a[:] # :를 이용해서 리스트 전체를 가리킬 수 있다.
+a[1] = 4
+print(a)
+print(b)
+
+from copy import copy
+b = copy(a) # copy 명령어를 사용해서 복사할 수 있다.
+
+print(b is a) # is 명령어를 사용해서 같은 객체인지 확인할 수 있다.
